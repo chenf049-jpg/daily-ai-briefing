@@ -1,47 +1,57 @@
 {
   "date": "2026-05-18",
-  "update_time": "2026-05-18 15:30:00",
+  "update_time": "2026-05-18 15:23:52",
   "total": 5,
   "items": [
     {
-      "title": "Anthropic 发布 Claude Code 2.0：MCP 协议与 Skill 市场全面开放",
-      "url": "https://techcrunch.com/2026/05/18/anthropic-claude-code-2",
-      "summary": "Anthropic 今日发布 Claude Code 2.0，重点引入 MCP 协议支持与官方 Skill 市场。开发者可通过 MCP 协议让 Claude Code 调用任意外部工具，Skill 市场目前已收录超过 200 个社区贡献的技能包，覆盖代码审查、TDD、架构分析等场景。同时发布的 Skill SDK 支持 TypeScript 编写自定义 Skill。",
-      "categories": ["ai_coding"],
+      "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+      "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+      "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+      "categories": [
+        "general_ai"
+      ],
       "source": "TechCrunch",
-      "reason": "AI Coding 领域重要动态，MCP 协议正在成为 Agent 工具调用的行业标准，Claude Code 生态的扩展直接影响所有 AI 编程工具的架构方向。来自一线科技媒体的深度报道。"
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Figure 03 人形机器人量产版发布：定价 29,900 美元，面向家庭场景",
-      "url": "https://arstechnica.com/ai/2026/05/figure-03-production",
-      "summary": "Figure AI 宣布 Figure 03 正式进入量产阶段，成为首款面向家庭场景的量产人形机器人。它能够完成清洁、整理、简单烹饪等 50 余项家务，基于端到端模仿学习框架，无需预先编程。目前已与三家家电厂商达成合作协议，预计首批交付 1000 台。",
-      "categories": ["embodied_ai"],
+      "title": "South Korea’s LetinAR is building optics behind AI glasses",
+      "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "Apple’s Siri revamp could include auto-deleting chats",
+      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+      "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "Bug bounty businesses bombarded with AI slop",
+      "url": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/",
+      "summary": "\"Never-ending\" AI slop strains corporate hacking reward schemes.",
+      "categories": [
+        "general_ai"
+      ],
       "source": "Ars Technica",
-      "reason": "具身智能领域重要进展，人形机器人从实验室走向家庭场景的量产关键节点，标志着具身智能商业化进入新阶段。来自一线科技媒体的深度报道。"
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "DeepSeek Coder V3 开源：编程能力持平 GPT-4.5，推理速度提升 3 倍",
-      "url": "https://www.theverge.com/2026/5/18/deepseek-coder-v3",
-      "summary": "DeepSeek 开源了全新的 Coder V3 模型，采用 MoE 架构，总参数量 685B 但推理时仅激活 37B。在 HumanEval、SWE-Bench 等编程基准上达到 GPT-4.5 级别，且支持 256K 上下文窗口。配合 INT4 量化可在单张 A100 上运行，大幅降低了私有化部署门槛。",
-      "categories": ["ai_coding"],
-      "source": "The Verge",
-      "reason": "AI Coding 领域重要动态，开源模型竞争加剧，DeepSeek Coder V3 在编程能力上逼近闭源模型，对 AI 编程工具市场格局将产生深远影响。来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "Apple、Google、Microsoft 联合采纳 MCP 为 AI Agent 通信标准",
-      "url": "https://www.technologyreview.com/2026/05/18/mcp-adopted",
-      "summary": "三大科技巨头 Apple、Google、Microsoft 联合宣布采纳 MCP（Model Context Protocol）作为 AI Agent 间通信的行业标准。三家公司将在各自操作系统和 AI 平台中原生支持 MCP，这意味着开发者编写的 Agent 工具可以跨 iOS、Android、Windows 平台无缝运行。MCP 协议的标准化被视为 Agent 生态爆发的关键基础设施。",
-      "categories": ["ai_coding"],
-      "source": "MIT Tech Review",
-      "reason": "AI Coding 领域重要动态，MCP 获得三大巨头背书成为行业标准，将极大加速 AI Agent 互操作性生态建设。来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "RT-2X：视觉语言模型驱动的机器人跨形态操作新范式",
-      "url": "https://arxiv.org/abs/2605.01234",
-      "summary": "Google DeepMind 发表 RT-2X 论文，提出将视觉语言模型直接映射为机器人操作策略的统一框架。在涵盖 27 种真实世界任务的评估中达到 78% 成功率，相比此前 SOTA 提升 15%。核心突破在于同一个模型无需微调即可适配不同机器人形态（机械臂、双足、四足），为实现通用机器人智能提供了新思路。",
-      "categories": ["embodied_ai"],
-      "source": "ArXiv",
-      "reason": "具身智能领域重要进展，Google DeepMind 提出的 VLM-to-Robot 方法为通用机器人智能提供了新的技术路线，学术前沿值得关注。"
+      "title": "The US is betting on AI to catch insider trading in prediction markets",
+      "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
+      "summary": "The Commodity Futures Trading Commission wants us to know it's taking this very seriously.",
+      "categories": [
+        "ai_coding"
+      ],
+      "source": "Ars Technica",
+      "reason": "AI Coding 领域重要动态，来自一线科技媒体的深度报道。"
     }
   ]
 }
