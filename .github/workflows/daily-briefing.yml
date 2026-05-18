@@ -2,13 +2,17 @@ name: 每日AI日报
 
 on:
   schedule:
-    # 每天上午 8:00 更新 (UTC 0:00 = 北京时间 8:00)
     - cron: '0 0 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   fetch-and-deploy:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - uses: actions/checkout@v4
 
