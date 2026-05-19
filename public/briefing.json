@@ -1,57 +1,57 @@
 {
-  "date": "2026-05-18",
-  "update_time": "2026-05-18 15:23:52",
+  "date": "2026-05-19",
+  "update_time": "2026-05-19 11:43:23",
   "total": 5,
   "items": [
     {
-      "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
-      "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-      "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
       "categories": [
         "general_ai"
       ],
       "source": "TechCrunch",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+      "reason": "AI 领域重要动态，Claude 生态持续扩展。"
     },
     {
-      "title": "South Korea’s LetinAR is building optics behind AI glasses",
-      "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "Apple’s Siri revamp could include auto-deleting chats",
-      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-      "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "Bug bounty businesses bombarded with AI slop",
-      "url": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/",
-      "summary": "\"Never-ending\" AI slop strains corporate hacking reward schemes.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "Ars Technica",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "The US is betting on AI to catch insider trading in prediction markets",
-      "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
-      "summary": "The Commodity Futures Trading Commission wants us to know it's taking this very seriously.",
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
       "categories": [
         "ai_coding"
       ],
+      "source": "TechCrunch",
+      "reason": "AI Coding 领域重要动态，Claude 生态持续扩展。"
+    },
+    {
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI 领域重要动态，反映头部玩家最新动作。"
+    },
+    {
+      "title": "Legal fail: Don’t use AI to sue Facebook users for calling you a bad date",
+      "url": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
+      "summary": "Fake citations dashed a dude’s “Are We Dating the Same Guy” revenge lawsuit.",
+      "categories": [
+        "general_ai"
+      ],
       "source": "Ars Technica",
-      "reason": "AI Coding 领域重要动态，来自一线科技媒体的深度报道。"
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
+      "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
+      "summary": "Musk plans to appeal after judge immediately affirmed the jury's decision.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "Ars Technica",
+      "reason": "AI 领域重要动态，反映头部玩家最新动作。"
     }
   ]
 }
