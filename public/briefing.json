@@ -1,12 +1,12 @@
 {
-  "date": "2026-05-20",
-  "update_time": "2026-05-20 10:38:58",
+  "date": "2026-05-21",
+  "update_time": "2026-05-21 11:56:51",
   "total": 5,
   "items": [
     {
-      "title": "Google just declared itself a contender in AI design at IO 2026",
-      "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
-      "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
       "categories": [
         "general_ai"
       ],
@@ -14,44 +14,44 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-      "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
-      "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+      "title": "Anthropic says it’s about to have its first profitable quarter",
+      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
       "categories": [
         "general_ai"
       ],
       "source": "TechCrunch",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+      "reason": "AI 领域重要动态，Claude 生态持续扩展。"
     },
     {
-      "title": "How to use Google’s new AI agents to go beyond your standard searches",
-      "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-      "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+      "title": "Clouted wants to take the guesswork out of making short videos go viral",
+      "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+      "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
       "categories": [
         "ai_coding"
       ],
       "source": "TechCrunch",
+      "reason": "AI Coding 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
+      "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
+      "summary": "Google's AI search evolution is accelerating at I/O 2026.",
+      "categories": [
+        "ai_coding"
+      ],
+      "source": "Ars Technica",
       "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
     },
     {
-      "title": "Two AI-based science assistants succeed with drug-retargeting tasks",
-      "url": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
-      "summary": "Both tools generate hypotheses; one goes on to analyze some of the data.",
+      "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
+      "url": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
+      "summary": "Figure AI's 24/7 livestream showcases human soft spot for humanoid robots.",
       "categories": [
-        "general_ai"
+        "embodied_ai"
       ],
       "source": "Ars Technica",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more",
-      "url": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
-      "summary": "AI content is getting good, but SynthID might be able to help tell truth from fiction.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "Ars Technica",
-      "reason": "AI 领域重要动态，反映头部玩家最新动作。"
+      "reason": "具身智能领域重要进展，具身智能商业化加速。"
     }
   ]
 }
