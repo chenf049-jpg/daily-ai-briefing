@@ -1,12 +1,12 @@
 {
-  "date": "2026-05-21",
-  "update_time": "2026-05-21 11:56:51",
+  "date": "2026-05-22",
+  "update_time": "2026-05-22 10:37:42",
   "total": 5,
   "items": [
     {
-      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
-      "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-      "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+      "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+      "summary": "Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
       "categories": [
         "general_ai"
       ],
@@ -14,24 +14,34 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Anthropic says it’s about to have its first profitable quarter",
-      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-      "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+      "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
       "categories": [
         "general_ai"
       ],
       "source": "TechCrunch",
-      "reason": "AI 领域重要动态，Claude 生态持续扩展。"
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Clouted wants to take the guesswork out of making short videos go viral",
-      "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
-      "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
+      "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
+      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+      "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
       "categories": [
-        "ai_coding"
+        "general_ai"
       ],
       "source": "TechCrunch",
-      "reason": "AI Coding 领域重要动态，来自一线科技媒体的深度报道。"
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
+      "url": "https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/",
+      "summary": "SpaceX IPO filing pitches orbital data centers as Grok lags rival AI services.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "Ars Technica",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
       "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
@@ -42,16 +52,6 @@
       ],
       "source": "Ars Technica",
       "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
-    },
-    {
-      "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
-      "url": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
-      "summary": "Figure AI's 24/7 livestream showcases human soft spot for humanoid robots.",
-      "categories": [
-        "embodied_ai"
-      ],
-      "source": "Ars Technica",
-      "reason": "具身智能领域重要进展，具身智能商业化加速。"
     }
   ]
 }
