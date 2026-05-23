@@ -1,12 +1,12 @@
 {
-  "date": "2026-05-22",
-  "update_time": "2026-05-22 10:37:42",
+  "date": "2026-05-23",
+  "update_time": "2026-05-23 07:59:52",
   "total": 5,
   "items": [
     {
-      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-      "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
-      "summary": "Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
+      "title": "AI is being used to resurrect the voices of dead pilots",
+      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
       "categories": [
         "general_ai"
       ],
@@ -14,9 +14,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Six search engines worth trying now that Google isn’t really Google anymore",
-      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-      "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
+      "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+      "summary": "You can now disco ball-ify your entire Pixel home screen, says Google.",
       "categories": [
         "general_ai"
       ],
@@ -24,9 +24,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
-      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
-      "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
+      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
       "categories": [
         "general_ai"
       ],
@@ -34,9 +34,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
-      "url": "https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/",
-      "summary": "SpaceX IPO filing pitches orbital data centers as Grok lags rival AI services.",
+      "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
+      "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+      "summary": "Workaround flouts law that bans NTSB disclosures of cockpit audio recordings.",
       "categories": [
         "general_ai"
       ],
@@ -44,14 +44,14 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
-      "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
-      "summary": "Google's AI search evolution is accelerating at I/O 2026.",
+      "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
+      "url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
+      "summary": "Trump delays AI safety testing EO, claiming it would be an innovation “blocker.”",
       "categories": [
-        "ai_coding"
+        "general_ai"
       ],
       "source": "Ars Technica",
-      "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     }
   ]
 }
