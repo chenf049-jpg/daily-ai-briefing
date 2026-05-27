@@ -1,12 +1,22 @@
 {
-  "date": "2026-05-25",
-  "update_time": "2026-05-25 12:50:25",
+  "date": "2026-05-27",
+  "update_time": "2026-05-27 12:37:29",
   "total": 5,
   "items": [
     {
-      "title": "Everyone is navigating AI security in real time — even Google",
-      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-      "summary": "We're in the transition period -- all of us.",
+      "title": "Robinhood now lets your AI agents trade stocks",
+      "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+      "summary": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade",
+      "categories": [
+        "ai_coding"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
+    },
+    {
+      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
       "categories": [
         "general_ai"
       ],
@@ -14,9 +24,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
-      "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+      "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
       "categories": [
         "general_ai"
       ],
@@ -24,19 +34,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Ferrari is using IBM’s AI to create F1 superfans",
-      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-      "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
-      "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
-      "summary": "Workaround flouts law that bans NTSB disclosures of cockpit audio recordings.",
+      "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
+      "url": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
+      "summary": "The feds are raising the alarm about a new category of threat.",
       "categories": [
         "general_ai"
       ],
@@ -44,14 +44,14 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
-      "url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
-      "summary": "Trump delays AI safety testing EO, claiming it would be an innovation “blocker.”",
+      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+      "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
       "categories": [
-        "general_ai"
+        "ai_coding"
       ],
       "source": "Ars Technica",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+      "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
     }
   ]
 }
