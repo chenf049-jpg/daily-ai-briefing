@@ -1,12 +1,12 @@
 {
-  "date": "2026-05-28",
-  "update_time": "2026-05-28 12:49:40",
+  "date": "2026-05-29",
+  "update_time": "2026-05-29 11:59:17",
   "total": 5,
   "items": [
     {
-      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
-      "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
-      "summary": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+      "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
       "categories": [
         "general_ai"
       ],
@@ -14,9 +14,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Why Google’s AI can’t spell Google (or anything else)",
-      "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
-      "summary": "Google is embarrassing itself, again.",
+      "title": "The internet is being rebuilt for machines",
+      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
       "categories": [
         "general_ai"
       ],
@@ -24,19 +24,19 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-      "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
-      "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+      "title": "Asana acquires no-code agent-builder StackAI",
+      "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+      "summary": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
       "categories": [
-        "general_ai"
+        "ai_coding"
       ],
       "source": "TechCrunch",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+      "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
     },
     {
-      "title": "Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires",
-      "url": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
-      "summary": "Nvidia will invest $150 billion a year to make Taiwan an AI “epicenter.”",
+      "title": "LLMs believe false statements even after explicit warnings that they're false",
+      "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+      "summary": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\"",
       "categories": [
         "general_ai"
       ],
@@ -44,9 +44,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "YouTube to begin automatically labeling AI videos",
-      "url": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
-      "summary": "AI videos that are animated, unrealistic, or only have a little AI may still hide their origins, though.",
+      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+      "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+      "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output.",
       "categories": [
         "ai_coding"
       ],
