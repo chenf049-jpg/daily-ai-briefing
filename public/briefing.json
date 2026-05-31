@@ -1,22 +1,12 @@
 {
-  "date": "2026-05-30",
-  "update_time": "2026-05-30 08:43:02",
+  "date": "2026-05-31",
+  "update_time": "2026-05-31 09:58:51",
   "total": 5,
   "items": [
     {
-      "title": "Coders are refusing to work without AI — and that could come back to bite them",
-      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-      "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
-      "categories": [
-        "ai_coding"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI Coding 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
       "categories": [
         "general_ai"
       ],
@@ -24,9 +14,19 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "What happens when companies become too AI-pilled?",
-      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs i",
+      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+      "categories": [
+        "ai_coding"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI Coding 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "Meta is reportedly developing an AI pendant",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "summary": "Meta seems to be making big bets on AI-powered hardware.",
       "categories": [
         "general_ai"
       ],
