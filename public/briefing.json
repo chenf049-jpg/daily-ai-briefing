@@ -1,12 +1,12 @@
 {
-  "date": "2026-05-31",
-  "update_time": "2026-05-31 09:58:51",
+  "date": "2026-06-01",
+  "update_time": "2026-06-01 19:29:54",
   "total": 5,
   "items": [
     {
-      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+      "title": "Water access is now a risk factor in SpaceX’s IPO",
+      "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+      "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
       "categories": [
         "general_ai"
       ],
@@ -14,19 +14,19 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+      "title": "Anthropic files to go public",
+      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "summary": "The company said Monday it has filed confidentially for an IPO.",
       "categories": [
-        "ai_coding"
+        "general_ai"
       ],
       "source": "TechCrunch",
-      "reason": "AI Coding 领域重要动态，来自一线科技媒体的深度报道。"
+      "reason": "AI 领域重要动态，Claude 生态持续扩展。"
     },
     {
-      "title": "Meta is reportedly developing an AI pendant",
-      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-      "summary": "Meta seems to be making big bets on AI-powered hardware.",
+      "title": "This AI weather startup is out-forecasting government agencies",
+      "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+      "summary": "Windborne Systems' newest weather forecasting model beats the best government predictions by days.",
       "categories": [
         "general_ai"
       ],
@@ -34,19 +34,19 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Startup offers free home cleaning—if it can record it all for robot training",
-      "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
-      "summary": "The latest twist in paying humans to wear head cameras for robot training data.",
+      "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
+      "url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
+      "summary": "Altman has an \"utter disregard\" for human lives, Florida AG says.",
       "categories": [
-        "embodied_ai"
+        "general_ai"
       ],
       "source": "Ars Technica",
-      "reason": "具身智能领域重要进展，具身智能商业化加速。"
+      "reason": "AI 领域重要动态，反映头部玩家最新动作。"
     },
     {
-      "title": "LLMs believe false statements even after explicit warnings that they're false",
-      "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
-      "summary": "Fine-tuning tests show \"bias... toward confidently representing the claims as true.\"",
+      "title": "From 15 hours to one minute: How AI/ML is speeding up GM's development",
+      "url": "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
+      "summary": "From CFD and FEA to digital twins, carmaking now involves a lot of virtualization.",
       "categories": [
         "general_ai"
       ],
