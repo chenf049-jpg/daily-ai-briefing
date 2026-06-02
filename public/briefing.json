@@ -1,12 +1,12 @@
 {
-  "date": "2026-06-01",
-  "update_time": "2026-06-01 19:29:54",
+  "date": "2026-06-02",
+  "update_time": "2026-06-02 12:58:59",
   "total": 5,
   "items": [
     {
-      "title": "Water access is now a risk factor in SpaceX’s IPO",
-      "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
-      "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
+      "title": "ZeroDrift raises $10 million to protect AI models from themselves",
+      "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
       "categories": [
         "general_ai"
       ],
@@ -14,19 +14,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Anthropic files to go public",
-      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-      "summary": "The company said Monday it has filed confidentially for an IPO.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI 领域重要动态，Claude 生态持续扩展。"
-    },
-    {
-      "title": "This AI weather startup is out-forecasting government agencies",
-      "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-      "summary": "Windborne Systems' newest weather forecasting model beats the best government predictions by days.",
+      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+      "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
+      "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
       "categories": [
         "general_ai"
       ],
@@ -34,19 +24,29 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
-      "url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
-      "summary": "Altman has an \"utter disregard\" for human lives, Florida AG says.",
+      "title": "Alphabet plans to raise $80B to pay for AI buildout",
+      "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statement.",
       "categories": [
         "general_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
+      "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+      "summary": "Some report burning through their whole monthly \"AI credit\" allotment in a single day.",
+      "categories": [
+        "ai_coding"
       ],
       "source": "Ars Technica",
-      "reason": "AI 领域重要动态，反映头部玩家最新动作。"
+      "reason": "AI Coding 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "From 15 hours to one minute: How AI/ML is speeding up GM's development",
-      "url": "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
-      "summary": "From CFD and FEA to digital twins, carmaking now involves a lot of virtualization.",
+      "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
+      "url": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
+      "summary": "Pricey Instagram handles were stolen and resold before Meta patched the exploit.",
       "categories": [
         "general_ai"
       ],
