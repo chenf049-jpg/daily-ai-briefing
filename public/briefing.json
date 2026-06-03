@@ -1,12 +1,12 @@
 {
-  "date": "2026-06-02",
-  "update_time": "2026-06-02 12:58:59",
+  "date": "2026-06-03",
+  "update_time": "2026-06-03 18:08:37",
   "total": 5,
   "items": [
     {
-      "title": "ZeroDrift raises $10 million to protect AI models from themselves",
-      "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
-      "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
+      "title": "Amazon will show AI product images when you search for some reason",
+      "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
       "categories": [
         "general_ai"
       ],
@@ -14,9 +14,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
-      "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
-      "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
+      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+      "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+      "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
       "categories": [
         "general_ai"
       ],
@@ -24,9 +24,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Alphabet plans to raise $80B to pay for AI buildout",
-      "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
-      "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statement.",
+      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+      "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+      "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
       "categories": [
         "general_ai"
       ],
@@ -34,9 +34,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
-      "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
-      "summary": "Some report burning through their whole monthly \"AI credit\" allotment in a single day.",
+      "title": "Inside Meta's attempts to play catch-up with AI",
+      "url": "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/",
+      "summary": "Doubts linger over whether Meta can close the gap with rivals.",
       "categories": [
         "ai_coding"
       ],
@@ -44,14 +44,14 @@
       "reason": "AI Coding 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
-      "url": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
-      "summary": "Pricey Instagram handles were stolen and resold before Meta patched the exploit.",
+      "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
+      "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
+      "summary": "Microsoft missed the boat on apps, so get ready for agents.",
       "categories": [
-        "general_ai"
+        "ai_coding"
       ],
       "source": "Ars Technica",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+      "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
     }
   ]
 }
