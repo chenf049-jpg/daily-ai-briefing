@@ -1,12 +1,12 @@
 {
-  "date": "2026-06-08",
-  "update_time": "2026-06-08 14:41:05",
+  "date": "2026-06-09",
+  "update_time": "2026-06-09 11:44:03",
   "total": 5,
   "items": [
     {
-      "title": "Is this the dawn of the Tokenpocalypse?",
-      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-      "summary": "We're likely to see more price increases as the big AI companies plan to go public.",
+      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+      "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+      "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
       "categories": [
         "general_ai"
       ],
@@ -14,19 +14,19 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Notion restores access to Anthropic after service disruption",
-      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
-      "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+      "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
+      "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+      "summary": "Sequoia is just one of the top firms that sells same equity at two different prices.",
       "categories": [
         "general_ai"
       ],
       "source": "TechCrunch",
-      "reason": "AI 领域重要动态，Claude 生态持续扩展。"
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "OpenAI is still working on that ‘super app’",
-      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-      "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+      "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
       "categories": [
         "general_ai"
       ],
@@ -34,19 +34,19 @@
       "reason": "AI 领域重要动态，反映头部玩家最新动作。"
     },
     {
-      "title": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
-      "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
-      "summary": "OpenAI to recast hit chatbot as a route to higher-margin products before a potential IPO.",
+      "title": "Say hi to \"Siri AI\"—Apple announces new, more \"conversational\" voice assistant",
+      "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+      "summary": "New features coming this fall alongside two-tiered, Google-powered AI model overhaul.",
       "categories": [
         "general_ai"
       ],
       "source": "Ars Technica",
-      "reason": "AI 领域重要动态，反映头部玩家最新动作。"
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "The weather and climate science AI revolution isn’t revolutionary",
-      "url": "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/",
-      "summary": "Machine learning has its limits—how is it being used?",
+      "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
+      "url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
+      "summary": "NotebookLM is getting a big upgrade, but it's only for AI Ultra and enterprise accounts right now.",
       "categories": [
         "general_ai"
       ],
