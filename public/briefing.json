@@ -1,12 +1,12 @@
 {
-  "date": "2026-06-16",
-  "update_time": "2026-06-16 18:19:23",
+  "date": "2026-06-17",
+  "update_time": "2026-06-17 13:01:57",
   "total": 5,
   "items": [
     {
-      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-      "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.",
+      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
+      "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+      "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
       "categories": [
         "general_ai"
       ],
@@ -14,9 +14,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
-      "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-      "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
+      "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
+      "url": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
+      "summary": "With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business.",
       "categories": [
         "general_ai"
       ],
@@ -24,9 +24,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "SpaceX is public: Everything you need to know post-IPO",
-      "url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
-      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+      "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+      "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+      "summary": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
       "categories": [
         "general_ai"
       ],
@@ -34,9 +34,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Pentagon boasts of using AI to write reports mandated by Congress",
-      "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
-      "summary": "Pentagon also claims 1.5 million personnel are using generative AI tools.",
+      "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+      "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+      "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.",
       "categories": [
         "general_ai"
       ],
@@ -44,14 +44,14 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
-      "url": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
-      "summary": "Separately, neither could compete. Now they hope they can.",
+      "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+      "summary": "Move originally planned for Monday would have heavily increased power users' costs.",
       "categories": [
         "ai_coding"
       ],
       "source": "Ars Technica",
-      "reason": "AI Coding 领域重要动态，来自一线科技媒体的深度报道。"
+      "reason": "AI Coding 领域重要动态，Claude 生态持续扩展。"
     }
   ]
 }
