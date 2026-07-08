@@ -1,12 +1,12 @@
 {
-  "date": "2026-07-07",
-  "update_time": "2026-07-07 02:40:37",
+  "date": "2026-07-08",
+  "update_time": "2026-07-08 02:14:03",
   "total": 5,
   "items": [
     {
-      "title": "The ‘first’ AI-run ransomware attack still needed a human",
-      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's",
+      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "summary": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
       "categories": [
         "general_ai"
       ],
@@ -14,44 +14,44 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-      "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
       "categories": [
         "general_ai"
       ],
       "source": "TechCrunch",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-      "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
-      "categories": [
-        "ai_coding"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
-    },
-    {
-      "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
-      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-      "summary": "Anthropic accused of spying on users; engineer says “experiment” is over.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "Ars Technica",
       "reason": "AI 领域重要动态，Claude 生态持续扩展。"
     },
     {
-      "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
-      "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
-      "summary": "FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions.",
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
+      "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+      "summary": "Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan.",
       "categories": [
         "general_ai"
       ],
       "source": "Ars Technica",
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
+      "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+      "summary": "It's early, but the plan is to reduce dependency on Nvidia and Huawei.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "Ars Technica",
+      "reason": "AI 领域重要动态，开源模型竞争加剧。"
     }
   ]
 }
