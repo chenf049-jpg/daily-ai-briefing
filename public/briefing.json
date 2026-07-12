@@ -1,8 +1,18 @@
 {
-  "date": "2026-07-11",
-  "update_time": "2026-07-11 02:10:45",
+  "date": "2026-07-12",
+  "update_time": "2026-07-12 02:21:17",
   "total": 5,
   "items": [
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI 领域重要动态，反映头部玩家最新动作。"
+    },
     {
       "title": "Meta removes controversial AI feature on Instagram after backlash",
       "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
@@ -22,16 +32,6 @@
       ],
       "source": "TechCrunch",
       "reason": "AI 领域重要动态，反映头部玩家最新动作。"
-    },
-    {
-      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-      "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same st",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
       "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
