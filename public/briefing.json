@@ -1,57 +1,57 @@
 {
-  "date": "2026-07-13",
-  "update_time": "2026-07-13 02:23:04",
+  "date": "2026-07-14",
+  "update_time": "2026-07-14 02:02:50",
   "total": 5,
   "items": [
     {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
       "categories": [
-        "general_ai"
+        "embodied_ai"
       ],
       "source": "TechCrunch",
-      "reason": "AI 领域重要动态，反映头部玩家最新动作。"
+      "reason": "具身智能领域重要进展，具身智能商业化加速。"
     },
     {
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
       "categories": [
-        "general_ai"
+        "ai_coding"
       ],
       "source": "TechCrunch",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+      "reason": "AI Coding 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
       "categories": [
-        "general_ai"
+        "ai_coding"
       ],
       "source": "TechCrunch",
-      "reason": "AI 领域重要动态，反映头部玩家最新动作。"
+      "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
     },
     {
-      "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
-      "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
-      "summary": "Digital Services Act may force Meta to make big changes on its platforms.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "Ars Technica",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "OpenAI wants its new tool to do your work for you and with you",
-      "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
-      "summary": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\"",
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
       "categories": [
         "general_ai"
       ],
       "source": "Ars Technica",
       "reason": "AI 领域重要动态，反映头部玩家最新动作。"
+    },
+    {
+      "title": "Now, defenders are embracing the prompt injection, too",
+      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "Ars Technica",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     }
   ]
 }
