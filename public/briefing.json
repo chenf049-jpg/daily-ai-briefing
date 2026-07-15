@@ -1,52 +1,52 @@
 {
-  "date": "2026-07-14",
-  "update_time": "2026-07-14 02:02:50",
+  "date": "2026-07-15",
+  "update_time": "2026-07-15 01:59:46",
   "total": 5,
   "items": [
     {
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
-      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
       "categories": [
-        "embodied_ai"
+        "general_ai"
       ],
       "source": "TechCrunch",
-      "reason": "具身智能领域重要进展，具身智能商业化加速。"
+      "reason": "AI 领域重要动态，反映头部玩家最新动作。"
     },
     {
-      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-      "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+      "title": "Lorde says AI glasses are ‘not sexy’",
+      "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
       "categories": [
-        "ai_coding"
+        "general_ai"
       ],
       "source": "TechCrunch",
-      "reason": "AI Coding 领域重要动态，来自一线科技媒体的深度报道。"
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
       "categories": [
-        "ai_coding"
+        "general_ai"
       ],
       "source": "TechCrunch",
-      "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
+      "reason": "AI 领域重要动态，反映头部玩家最新动作。"
     },
     {
-      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-      "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
+      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+      "summary": "Meta denies using AI to terminate workers with disabilities and medical problems.",
       "categories": [
         "general_ai"
       ],
       "source": "Ars Technica",
-      "reason": "AI 领域重要动态，反映头部玩家最新动作。"
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Now, defenders are embracing the prompt injection, too",
-      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-      "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
+      "title": "US military sent explosive drone boats into combat for the first time",
+      "url": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
+      "summary": "US military’s drone boats struck an Iranian naval port as war heats up again.",
       "categories": [
         "general_ai"
       ],
