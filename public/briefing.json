@@ -1,12 +1,12 @@
 {
-  "date": "2026-07-22",
-  "update_time": "2026-07-22 02:10:14",
+  "date": "2026-07-23",
+  "update_time": "2026-07-23 02:21:45",
   "total": 5,
   "items": [
     {
-      "title": "Meta is testing an AI bedtime story app for people with no imagination",
-      "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-      "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
       "categories": [
         "general_ai"
       ],
@@ -14,44 +14,44 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "OpenAI says Hugging Face was breached by its pre-release models",
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
       "categories": [
         "general_ai"
       ],
       "source": "TechCrunch",
-      "reason": "AI 领域重要动态，反映头部玩家最新动作。"
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
-      "categories": [
-        "ai_coding"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
-    },
-    {
-      "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
-      "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
-      "summary": "Anthropic blocks authors from opting out of $1.5B settlement at last minute.",
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
       "categories": [
         "general_ai"
       ],
-      "source": "Ars Technica",
+      "source": "TechCrunch",
       "reason": "AI 领域重要动态，Claude 生态持续扩展。"
     },
     {
-      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
-      "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
-      "summary": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.",
+      "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
+      "url": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
+      "summary": "Union previously warned automaker that any robot deployment must be negotiated.",
       "categories": [
-        "general_ai"
+        "embodied_ai"
       ],
       "source": "Ars Technica",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+      "reason": "具身智能领域重要进展，具身智能商业化加速。"
+    },
+    {
+      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+      "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+      "summary": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says.",
+      "categories": [
+        "ai_coding"
+      ],
+      "source": "Ars Technica",
+      "reason": "AI Coding 领域重要动态，反映头部玩家最新动作。"
     }
   ]
 }
