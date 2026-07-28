@@ -1,57 +1,57 @@
 {
-  "date": "2026-07-27",
-  "update_time": "2026-07-27 02:31:38",
+  "date": "2026-07-28",
+  "update_time": "2026-07-28 02:06:03",
   "total": 5,
   "items": [
     {
-      "title": "Are brain waves the next unlock for physical AI?",
-      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
       "categories": [
         "general_ai"
       ],
       "source": "TechCrunch",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "Making sense of the panic over Chinese AI",
-      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI 领域重要动态，反映头部玩家最新动作。"
-    },
-    {
-      "title": "Canadian legislator reads out apparent LLM response in floor speech",
-      "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-      "summary": "\"Here’s a more natural, flowing version of that section...\"",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "Ars Technica",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-      "summary": "Models are improving quickly, but the cheaper options are often good enough.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "Ars Technica",
       "reason": "AI 领域重要动态，Claude 生态持续扩展。"
+    },
+    {
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI 领域重要动态，Claude 生态持续扩展。"
+    },
+    {
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "Ars Technica",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
+      "url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+      "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "Ars Technica",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     }
   ]
 }
