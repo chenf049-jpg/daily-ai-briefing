@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-28",
-  "update_time": "2026-07-28 02:06:03",
+  "date": "2026-07-29",
+  "update_time": "2026-07-29 02:09:06",
   "total": 5,
   "items": [
     {
-      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "summary": "The deal is Cyera's third acquisition this year.",
       "categories": [
-        "general_ai"
+        "ai_coding"
       ],
       "source": "TechCrunch",
-      "reason": "AI 领域重要动态，Claude 生态持续扩展。"
+      "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
     },
     {
-      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
       "categories": [
         "general_ai"
       ],
@@ -24,29 +24,29 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
       "categories": [
-        "general_ai"
+        "ai_coding"
       ],
       "source": "TechCrunch",
-      "reason": "AI 领域重要动态，Claude 生态持续扩展。"
+      "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
     },
     {
-      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-      "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
+      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
       "categories": [
         "general_ai"
       ],
       "source": "Ars Technica",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+      "reason": "AI 领域重要动态，反映头部玩家最新动作。"
     },
     {
-      "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
-      "url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
-      "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
+      "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
+      "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+      "summary": "Analysis of 15 million real AI interactions finds most tasks at most jobs are unaffected.",
       "categories": [
         "general_ai"
       ],
