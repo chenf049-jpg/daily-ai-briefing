@@ -1,12 +1,22 @@
 {
-  "date": "2026-07-29",
-  "update_time": "2026-07-29 02:09:06",
+  "date": "2026-07-30",
+  "update_time": "2026-07-30 01:58:13",
   "total": 5,
   "items": [
     {
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "summary": "The deal is Cyera's third acquisition this year.",
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI 领域重要动态，Claude 生态持续扩展。"
+    },
+    {
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
       "categories": [
         "ai_coding"
       ],
@@ -14,44 +24,34 @@
       "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
     },
     {
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
       "categories": [
         "general_ai"
       ],
       "source": "TechCrunch",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+      "reason": "AI 领域重要动态，Claude 生态持续扩展。"
     },
     {
-      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
-      "categories": [
-        "ai_coding"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
-    },
-    {
-      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-      "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "Ars Technica",
-      "reason": "AI 领域重要动态，反映头部玩家最新动作。"
-    },
-    {
-      "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
-      "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
-      "summary": "Analysis of 15 million real AI interactions finds most tasks at most jobs are unaffected.",
+      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+      "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
       "categories": [
         "general_ai"
       ],
       "source": "Ars Technica",
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "Who wins and who loses after US bans foreign robots?",
+      "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+      "summary": "Government ban on foreign-made robots may hinder instead of help US robotics.",
+      "categories": [
+        "embodied_ai"
+      ],
+      "source": "Ars Technica",
+      "reason": "具身智能领域重要进展，具身智能商业化加速。"
     }
   ]
 }
