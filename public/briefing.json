@@ -1,12 +1,12 @@
 {
-  "date": "2026-07-30",
-  "update_time": "2026-07-30 01:58:13",
+  "date": "2026-07-31",
+  "update_time": "2026-07-31 02:24:03",
   "total": 5,
   "items": [
     {
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
       "categories": [
         "general_ai"
       ],
@@ -14,19 +14,9 @@
       "reason": "AI 领域重要动态，Claude 生态持续扩展。"
     },
     {
-      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-      "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-      "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-      "categories": [
-        "ai_coding"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
-    },
-    {
-      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-      "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
       "categories": [
         "general_ai"
       ],
@@ -34,9 +24,19 @@
       "reason": "AI 领域重要动态，Claude 生态持续扩展。"
     },
     {
-      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-      "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
+      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "Chrome may get faster updates with no restart required",
+      "url": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
+      "summary": "The last two versions of Chrome have included more patches than the previous 23 combined.",
       "categories": [
         "general_ai"
       ],
@@ -44,9 +44,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Who wins and who loses after US bans foreign robots?",
-      "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
-      "summary": "Government ban on foreign-made robots may hinder instead of help US robotics.",
+      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+      "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+      "summary": "Gemini Robotics 2 includes three models, but only one is publicly available right now.",
       "categories": [
         "embodied_ai"
       ],
