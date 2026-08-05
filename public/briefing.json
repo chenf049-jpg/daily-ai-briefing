@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-04",
-  "update_time": "2026-08-04 02:04:20",
+  "date": "2026-08-05",
+  "update_time": "2026-08-05 02:03:25",
   "total": 5,
   "items": [
     {
-      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-      "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
       "categories": [
         "general_ai"
       ],
@@ -14,19 +14,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-      "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
-      "categories": [
-        "ai_coding"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI Coding 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
       "categories": [
         "general_ai"
       ],
@@ -34,9 +24,19 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
-      "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
-      "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI 领域重要动态，Claude 生态持续扩展。"
+    },
+    {
+      "title": "Texas halts data center connections to power grid amid overwhelming demand",
+      "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+      "summary": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
       "categories": [
         "general_ai"
       ],
@@ -44,9 +44,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
-      "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
-      "summary": "Top scores increased by 5x.",
+      "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+      "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+      "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
       "categories": [
         "general_ai"
       ],
