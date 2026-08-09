@@ -1,8 +1,28 @@
 {
-  "date": "2026-08-08",
-  "update_time": "2026-08-08 01:14:01",
+  "date": "2026-08-09",
+  "update_time": "2026-08-09 01:18:28",
   "total": 5,
   "items": [
+    {
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "summary": "NextSlide says its team members are now working on ChatGPT.",
+      "categories": [
+        "ai_coding"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI Coding 领域重要动态，反映头部玩家最新动作。"
+    },
     {
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
@@ -14,24 +34,14 @@
       "reason": "AI 领域重要动态，反映头部玩家最新动作。"
     },
     {
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+      "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
       "categories": [
         "general_ai"
       ],
-      "source": "TechCrunch",
+      "source": "Ars Technica",
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-      "categories": [
-        "ai_coding"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
     },
     {
       "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
@@ -42,16 +52,6 @@
       ],
       "source": "Ars Technica",
       "reason": "AI 领域重要动态，反映头部玩家最新动作。"
-    },
-    {
-      "title": "AI chatbots have failed people in crisis. Can that be fixed?",
-      "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
-      "summary": "Clinicians and researchers say AI companies need to open up their safety data.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "Ars Technica",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     }
   ]
 }
