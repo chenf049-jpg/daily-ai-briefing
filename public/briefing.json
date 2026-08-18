@@ -1,32 +1,12 @@
 {
-  "date": "2026-08-17",
-  "update_time": "2026-08-17 00:58:43",
+  "date": "2026-08-18",
+  "update_time": "2026-08-18 00:57:13",
   "total": 5,
   "items": [
     {
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "summary": "The model maker added $18 billion in annualized revenue in two months.",
       "categories": [
         "general_ai"
       ],
@@ -34,24 +14,44 @@
       "reason": "AI 领域重要动态，Claude 生态持续扩展。"
     },
     {
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-      "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
+      "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+      "summary": "“We're not necessarily building in a dogmatic fashion towards full autonomy.”",
+      "categories": [
+        "embodied_ai"
+      ],
+      "source": "Ars Technica",
+      "reason": "具身智能领域重要进展，具身智能商业化加速。"
+    },
+    {
+      "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+      "summary": "Amazon’s team uses a T. rex preparing to devour a book as its logo.",
       "categories": [
         "general_ai"
       ],
       "source": "Ars Technica",
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-      "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "Ars Technica",
-      "reason": "AI 领域重要动态，Claude 生态持续扩展。"
     }
   ]
 }
