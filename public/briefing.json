@@ -1,12 +1,32 @@
 {
-  "date": "2026-08-25",
-  "update_time": "2026-08-25 00:59:49",
+  "date": "2026-08-26",
+  "update_time": "2026-08-26 01:01:13",
   "total": 5,
   "items": [
     {
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+      "categories": [
+        "embodied_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "具身智能领域重要进展，具身智能商业化加速。"
+    },
+    {
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI 领域重要动态，反映头部玩家最新动作。"
+    },
+    {
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "summary": "The company's new fundraising total now stands at $232 million.",
       "categories": [
         "general_ai"
       ],
@@ -14,39 +34,19 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+      "title": "World humanoid robot games show runners breaking records, bursting into flames",
+      "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+      "summary": "Record-breaking robot races are less substantial than household chore challenges.",
       "categories": [
-        "general_ai"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-      "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-      "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
-      "categories": [
-        "general_ai"
+        "embodied_ai"
       ],
       "source": "Ars Technica",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+      "reason": "具身智能领域重要进展，具身智能商业化加速。"
     },
     {
-      "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
-      "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-      "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
+      "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+      "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+      "summary": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
       "categories": [
         "general_ai"
       ],
