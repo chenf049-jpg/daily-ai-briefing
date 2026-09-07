@@ -1,8 +1,28 @@
 {
-  "date": "2026-09-06",
-  "update_time": "2026-09-06 02:36:34",
+  "date": "2026-09-07",
+  "update_time": "2026-09-07 02:34:23",
   "total": 5,
   "items": [
+    {
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "categories": [
+        "ai_coding"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI Coding 领域重要动态，Claude 生态持续扩展。"
+    },
+    {
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "categories": [
+        "embodied_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "具身智能领域重要进展，具身智能商业化加速。"
+    },
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
@@ -12,26 +32,6 @@
       ],
       "source": "TechCrunch",
       "reason": "AI 领域重要动态，反映头部玩家最新动作。"
-    },
-    {
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "categories": [
-        "ai_coding"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI Coding 领域重要动态，反映头部玩家最新动作。"
     },
     {
       "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
