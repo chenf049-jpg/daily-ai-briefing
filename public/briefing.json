@@ -1,8 +1,18 @@
 {
-  "date": "2026-09-07",
-  "update_time": "2026-09-07 02:34:23",
+  "date": "2026-09-08",
+  "update_time": "2026-09-08 02:47:28",
   "total": 5,
   "items": [
+    {
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
     {
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
@@ -24,14 +34,14 @@
       "reason": "具身智能领域重要进展，具身智能商业化加速。"
     },
     {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
       "categories": [
         "general_ai"
       ],
-      "source": "TechCrunch",
-      "reason": "AI 领域重要动态，反映头部玩家最新动作。"
+      "source": "Ars Technica",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
       "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
@@ -42,16 +52,6 @@
       ],
       "source": "Ars Technica",
       "reason": "AI Coding 领域重要动态，反映头部玩家最新动作。"
-    },
-    {
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-      "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "Ars Technica",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     }
   ]
 }
