@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-17",
-  "update_time": "2026-09-17 03:06:04",
+  "date": "2026-09-18",
+  "update_time": "2026-09-18 02:54:06",
   "total": 5,
   "items": [
     {
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "summary": "The round values the data center giant at $30.9 billion.",
       "categories": [
         "general_ai"
       ],
@@ -14,9 +14,19 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
-      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+      "categories": [
+        "ai_coding"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI Coding 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
       "categories": [
         "general_ai"
       ],
@@ -24,34 +34,24 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+      "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+      "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
       "categories": [
-        "general_ai"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI 领域重要动态，Claude 生态持续扩展。"
-    },
-    {
-      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-      "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-      "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
-      "categories": [
-        "general_ai"
+        "ai_coding"
       ],
       "source": "Ars Technica",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+      "reason": "AI Coding 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
-      "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
-      "summary": "Robots can start working outside physical cages and without safety barriers.",
+      "title": "Google announces new experimental \"CC\" AI agent for families",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+      "summary": "Multiple family members can share data to help the agent make plans and complete tasks.",
       "categories": [
-        "embodied_ai"
+        "ai_coding"
       ],
       "source": "Ars Technica",
-      "reason": "具身智能领域重要进展，具身智能商业化加速。"
+      "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
     }
   ]
 }
