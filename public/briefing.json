@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-18",
-  "update_time": "2026-09-18 02:54:06",
+  "date": "2026-09-19",
+  "update_time": "2026-09-19 02:51:58",
   "total": 5,
   "items": [
     {
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "summary": "The round values the data center giant at $30.9 billion.",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
       "categories": [
         "general_ai"
       ],
@@ -14,19 +14,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
-      "categories": [
-        "ai_coding"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI Coding 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "PrismML hopes its tiny LLM will change how we all use AI",
-      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
       "categories": [
         "general_ai"
       ],
@@ -34,24 +24,34 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
-      "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
-      "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
       "categories": [
-        "ai_coding"
+        "general_ai"
       ],
-      "source": "Ars Technica",
-      "reason": "AI Coding 领域重要动态，来自一线科技媒体的深度报道。"
+      "source": "TechCrunch",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Google announces new experimental \"CC\" AI agent for families",
-      "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-      "summary": "Multiple family members can share data to help the agent make plans and complete tasks.",
+      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "summary": "But the military's overall use of AI seems to be accelerating.",
       "categories": [
-        "ai_coding"
+        "general_ai"
       ],
       "source": "Ars Technica",
-      "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+      "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "Ars Technica",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     }
   ]
 }
