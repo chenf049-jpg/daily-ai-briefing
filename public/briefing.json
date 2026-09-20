@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-19",
-  "update_time": "2026-09-19 02:51:58",
+  "date": "2026-09-20",
+  "update_time": "2026-09-20 03:04:29",
   "total": 5,
   "items": [
     {
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
       "categories": [
         "general_ai"
       ],
@@ -14,9 +14,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
       "categories": [
         "general_ai"
       ],
@@ -24,9 +24,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
       "categories": [
         "general_ai"
       ],
