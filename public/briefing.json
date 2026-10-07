@@ -1,57 +1,57 @@
 {
-  "date": "2026-10-06",
-  "update_time": "2026-10-06 04:32:53",
+  "date": "2026-10-07",
+  "update_time": "2026-10-07 03:58:56",
   "total": 5,
   "items": [
     {
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
       "categories": [
         "general_ai"
       ],
       "source": "TechCrunch",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "How AI decision models could change content moderation",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+      "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "Ars Technica",
       "reason": "AI 领域重要动态，反映头部玩家最新动作。"
     },
     {
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
-      "categories": [
-        "ai_coding"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
-    },
-    {
-      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-      "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "summary": "The reports of OpenAI agents harming third-party sites keep coming.",
       "categories": [
         "ai_coding"
       ],
       "source": "Ars Technica",
-      "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
-    },
-    {
-      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
-      "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
-      "summary": "The tool can free up over 12GB of storage.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "Ars Technica",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+      "reason": "AI Coding 领域重要动态，反映头部玩家最新动作。"
     }
   ]
 }
