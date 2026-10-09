@@ -1,22 +1,12 @@
 {
-  "date": "2026-10-08",
-  "update_time": "2026-10-08 04:12:19",
+  "date": "2026-10-09",
+  "update_time": "2026-10-09 04:17:22",
   "total": 5,
   "items": [
     {
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
-      "categories": [
-        "ai_coding"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
-    },
-    {
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
       "categories": [
         "general_ai"
       ],
@@ -24,29 +14,39 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI 领域重要动态，反映头部玩家最新动作。"
+    },
+    {
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
       "categories": [
         "general_ai"
       ],
       "source": "TechCrunch",
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
+      "categories": [
+        "embodied_ai"
+      ],
+      "source": "Ars Technica",
+      "reason": "具身智能领域重要进展，具身智能商业化加速。"
     },
     {
       "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
       "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
       "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "Ars Technica",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
-      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
-      "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
       "categories": [
         "general_ai"
       ],
