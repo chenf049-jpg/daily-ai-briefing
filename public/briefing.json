@@ -1,12 +1,22 @@
 {
-  "date": "2026-10-09",
-  "update_time": "2026-10-09 04:17:22",
+  "date": "2026-10-10",
+  "update_time": "2026-10-10 04:02:28",
   "total": 5,
   "items": [
     {
-      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "categories": [
+        "ai_coding"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI Coding 领域重要动态，Claude 生态持续扩展。"
+    },
+    {
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
       "categories": [
         "general_ai"
       ],
@@ -14,44 +24,34 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
       "categories": [
-        "general_ai"
+        "ai_coding"
       ],
       "source": "TechCrunch",
-      "reason": "AI 领域重要动态，反映头部玩家最新动作。"
+      "reason": "AI Coding 领域重要动态，Claude 生态持续扩展。"
     },
     {
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-      "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
-      "categories": [
-        "embodied_ai"
-      ],
-      "source": "Ars Technica",
-      "reason": "具身智能领域重要进展，具身智能商业化加速。"
-    },
-    {
-      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-      "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
       "categories": [
         "general_ai"
       ],
       "source": "Ars Technica",
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "AI coding agents generate more code, but not more software",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+      "categories": [
+        "ai_coding"
+      ],
+      "source": "Ars Technica",
+      "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
     }
   ]
 }
