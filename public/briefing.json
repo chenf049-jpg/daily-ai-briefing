@@ -1,12 +1,22 @@
 {
-  "date": "2026-10-17",
-  "update_time": "2026-10-17 02:44:54",
+  "date": "2026-10-18",
+  "update_time": "2026-10-18 02:46:18",
   "total": 5,
   "items": [
     {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
       "categories": [
         "general_ai"
       ],
@@ -14,25 +24,14 @@
       "reason": "AI 领域重要动态，Claude 生态持续扩展。"
     },
     {
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
       "categories": [
-        "ai_coding"
+        "general_ai"
       ],
       "source": "TechCrunch",
-      "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
-    },
-    {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to tho",
-      "categories": [
-        "ai_coding",
-        "embodied_ai"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI Coding 领域重要动态，反映头部玩家最新动作。"
+      "reason": "AI 领域重要动态，Claude 生态持续扩展。"
     },
     {
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
