@@ -1,22 +1,12 @@
 {
-  "date": "2026-11-02",
-  "update_time": "2026-11-02 04:03:00",
+  "date": "2026-11-03",
+  "update_time": "2026-11-03 05:04:04",
   "total": 5,
   "items": [
     {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI 领域重要动态，反映头部玩家最新动作。"
-    },
-    {
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
       "categories": [
         "general_ai"
       ],
@@ -24,9 +14,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
       "categories": [
         "general_ai"
       ],
@@ -34,24 +24,34 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-      "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-      "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "Ars Technica",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
       "categories": [
         "ai_coding"
       ],
+      "source": "TechCrunch",
+      "reason": "AI Coding 领域重要动态，AI Agent 工程化趋势明显。"
+    },
+    {
+      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+      "categories": [
+        "embodied_ai"
+      ],
       "source": "Ars Technica",
-      "reason": "AI Coding 领域重要动态，Claude 生态持续扩展。"
+      "reason": "具身智能领域重要进展，具身智能商业化加速。"
+    },
+    {
+      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+      "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "Ars Technica",
+      "reason": "AI 领域重要动态，Claude 生态持续扩展。"
     }
   ]
 }
