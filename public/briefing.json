@@ -1,8 +1,18 @@
 {
-  "date": "2026-11-08",
-  "update_time": "2026-11-08 04:03:18",
+  "date": "2026-11-09",
+  "update_time": "2026-11-09 04:19:57",
   "total": 5,
   "items": [
+    {
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "TechCrunch",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
     {
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
       "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
@@ -17,16 +27,6 @@
       "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
       "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
       "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "TechCrunch",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "summary": "The deal highlights the challenges of developing massive AI data centers.",
       "categories": [
         "general_ai"
       ],
