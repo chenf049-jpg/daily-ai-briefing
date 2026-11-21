@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-20",
-  "update_time": "2026-11-20 05:28:51",
+  "date": "2026-11-21",
+  "update_time": "2026-11-21 05:21:55",
   "total": 5,
   "items": [
     {
-      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-      "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "summary": "Google search is making it even easier to access AI tools on the search page.",
       "categories": [
         "general_ai"
       ],
@@ -14,9 +14,19 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
-      "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
-      "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+      "categories": [
+        "ai_coding"
+      ],
+      "source": "Ars Technica",
+      "reason": "AI Coding 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
       "categories": [
         "general_ai"
       ],
@@ -24,19 +34,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Will Wright's next simulation will use AI to mine content from your memories",
-      "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
-      "summary": "With MyMems, Wright says he wants to \"turn the simulation inward.\"",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "Ars Technica",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
-    },
-    {
-      "title": "The AI Hype Index: AI is everywhere",
-      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s tim",
       "categories": [
         "general_ai"
       ],
@@ -44,9 +44,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "This smell startup says its AI nose is as good as a human’s",
-      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup",
+      "title": "The AI Hype Index: AI is everywhere",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to",
       "categories": [
         "general_ai"
       ],
