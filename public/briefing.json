@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-24",
-  "update_time": "2026-11-24 08:05:43",
+  "date": "2026-11-25",
+  "update_time": "2026-11-25 06:43:25",
   "total": 5,
   "items": [
     {
-      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
-      "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+      "title": "What's going on with the Riemann hypothesis?",
+      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+      "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
       "categories": [
         "general_ai"
       ],
@@ -14,9 +14,9 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
-      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
-      "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
       "categories": [
         "general_ai"
       ],
@@ -24,13 +24,23 @@
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
-      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
-      "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
-      "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
       "categories": [
         "general_ai"
       ],
       "source": "Ars Technica",
+      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
+    },
+    {
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than t",
+      "categories": [
+        "general_ai"
+      ],
+      "source": "MIT Tech Review",
       "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     },
     {
@@ -42,16 +52,6 @@
       ],
       "source": "MIT Tech Review",
       "reason": "AI 领域重要动态，Claude 生态持续扩展。"
-    },
-    {
-      "title": "The most misunderstood graph in AI just got a major update",
-      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s tim",
-      "categories": [
-        "general_ai"
-      ],
-      "source": "MIT Tech Review",
-      "reason": "AI 领域重要动态，来自一线科技媒体的深度报道。"
     }
   ]
 }
